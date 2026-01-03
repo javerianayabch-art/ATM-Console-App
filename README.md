@@ -40,4 +40,4 @@ This project was built as a **learning exercise** to strengthen Java fundamental
 BSIT Student | Java & Frontend Learner
 
 
-## 📂 Project Structure
+## Project Structure
