@@ -17,18 +17,28 @@ This project was created while practicing **Object-Oriented Programming (OOP)** 
 - Conditional statements and loops
 - Java `Scanner` for user input
 
+## Purpose
+This project was built as a **learning exercise** to strengthen Java fundamentals and understand how real-world systems like ATMs can be modeled using OOP concepts.
+
+## Project Structure
+
+**ATM.java** 
+- Contains the main program logic  
+- Handles user login, menu display, and user interaction
+
+**BankAccount.java**  
+- Represents a bank account  
+- Stores account details securely using encapsulation  
+- Contains methods for balance management and password validation
+
 ## Technologies
 - Java
 - Console-based application
-
 
 ## How to Run
 1. Clone the repository
 2. Open the project in any Java-supported IDE (VS Code / IntelliJ / Eclipse)
 3. Compile and run `ATM.java`
-
-## Purpose
-This project was built as a **learning exercise** to strengthen Java fundamentals and understand how real-world systems like ATMs can be modeled using OOP concepts.
 
 ## Notes
 - This is a beginner-level project
@@ -38,6 +48,3 @@ This project was built as a **learning exercise** to strengthen Java fundamental
 ## Author
 **Javeria Nayab**  
 BSIT Student | Java & Frontend Learner
-
-
-## Project Structure
